@@ -1,0 +1,24 @@
+h1{
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color:blueviolet;
+}
+
+.blink{
+    width:100px;
+    height: 50px;
+    color:red;
+    text-align: center;
+    line-height: 50px;
+}
+span{
+    font-size: 16px;
+    font-weight: bold;
+    color:red;
+    animation: blink 0.8s linear infinite;
+}
+@keyframes blink{
+0%{opacity: 0;}
+50%{opacity: .5;}
+100%{opacity: 1;}
+}
