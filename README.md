@@ -1,3 +1,17 @@
-# KREA
 
-KREA is a website created using basic HTML and CSS. You can suggest some changes to the website by contributing to my rep
+
+<html>
+  
+  <head>
+    <h1>KREA</h1>
+  </head>
+  
+ <body>
+<p>
+  
+  KREA is a <a href="https://prabhash-varma.github.io/KREA/="> website</a> which is created using basic HTML and CSS. You can make/suggest some changes to the website by contributing to this repository.
+  
+</p>
+
+  </body>
+ </html
